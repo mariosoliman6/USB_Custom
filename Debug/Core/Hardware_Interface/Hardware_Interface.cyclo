@@ -1,0 +1,5 @@
+Hardware_Interface.c:9:6:SbW_Protocol_Reply	1
+Hardware_Interface.c:14:6:HAL_UARTEx_RxEventCallback	1
+Hardware_Interface.c:20:6:App_User_Callback	1
+Hardware_Interface.c:24:6:HAL_TIM_PeriodElapsedCallback	1
+Hardware_Interface.c:29:6:HAL_UART_TxCpltCallback	1
